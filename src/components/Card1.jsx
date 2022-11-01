@@ -6,7 +6,7 @@ function Card1 ({name, number, cromo}) {
         <div className="card-info-container">
             
             <p>Character: <b>{name}</b></p>
-            <p className="figurine">Figurine Number: <b>{number}</b></p>
+            <p className="figurine">Figurine Number: &nbsp;&nbsp;&nbsp; <b>{number}</b></p>
             <div className="cromo">
             <small>{cromo ? "⭐ Is cromo " : "❌ Isn't cromo"}</small>
             </div>

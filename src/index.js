@@ -5,6 +5,8 @@ import "./index.css";
 import Top from "./components/Top";
 import Title from "./components/Title";
 import Card1 from "./components/Card1";
+import Footer from "./components/Footer"
+
 import cassianAndor from "./img/andor-cassian.jpeg";
 import bixCaleen from "./img/andor-bixCaleen.jpeg";
 import marvaAndor from "./img/andor-maarva.jpeg";
@@ -72,7 +74,7 @@ root.render(
           alt="Luthen Rael"
         />
         <>
-          <Card1 name="Luthen Rael" number={4} cromo={false}></Card1>
+          <Card1 name="Luthen Rael" number={4} cromo={true}></Card1>
         </>
       </div>
 
@@ -193,7 +195,7 @@ root.render(
           alt="Saw Gerrera"
         />
         <>
-          <Card1 name="Saw Gerrera" number={15} cromo={false}></Card1>
+          <Card1 name="Saw Gerrera" number={15} cromo={true}></Card1>
         </>
       </div>
 
@@ -209,6 +211,10 @@ root.render(
       </div>
 
     </div>
+
+    
+    <Footer creator="©2022 -  Created by NZB with love ❤️"></Footer>
+   
 
     {/* <>
       <Button number={1} title={"Hello"} />
