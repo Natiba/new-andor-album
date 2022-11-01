@@ -20,11 +20,19 @@ img:hover {
 
 .figurine {
     border: 1px solid rgb(179, 172, 157);
-    padding: 4%
+    padding: 4%;
+    width: 100%;
+   display: flex;
+   align-items: center;
+   justify-content: center;
 }
 
 .cromo {
     background-color: rgb(176, 168, 153);
     color: rgb(42, 37, 39);
-    padding: 4%
+    width: 60%;
+    padding: 3% 2%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
 }

@@ -12,6 +12,13 @@ import monMothma from "./img/andor-mon-mothma.jpeg";
 import dedraMeero from "./img/andor-dedra-meero.jpeg";
 import syrilKarn from "./img/andor-syril-karn.webp";
 import velSartha from "./img/andor-vel-sartha.jpeg";
+import cintaKaz from "./img/andor-cinta-kaz.jpeg";
+import kleyaMarki from "./img/andor-kleya-marki.jpeg";
+import empty from "./img/empty-figurine.001.jpeg";
+import sawGerrera from "./img/andor-saw-gerrera_.jpeg";
+import kinoLoy from "./img/andor-kino-loy.jpeg";
+
+
 
 const root = ReactDOM.createRoot(document.getElementById("root"));
 root.render(
@@ -100,21 +107,112 @@ root.render(
       <div className="AlbumCard1">
         <img
           className="cassian-img-container"
+          src={empty}
+          alt="Vel Sartha"
+        />
+        <>
+          <Card1 name="xxxxxx" number={8} cromo={false}></Card1>
+        </>
+      </div>
+
+      <div className="AlbumCard1">
+        <img
+          className="cassian-img-container"
           src={velSartha}
           alt="Vel Sartha"
         />
         <>
-          <Card1 name="Vel Sartha" number={8} cromo={false}></Card1>
+          <Card1 name="Vel Sartha" number={9} cromo={false}></Card1>
         </>
       </div>
+
+      <div className="AlbumCard1">
+        <img
+          className="cassian-img-container"
+          src={cintaKaz}
+          alt="Cinta Kaz"
+        />
+        <>
+          <Card1 name="Cinta Kaz" number={10} cromo={false}></Card1>
+        </>
+      </div>
+
+      <div className="AlbumCard1">
+        <img
+          className="cassian-img-container"
+          src={empty}
+          alt="Syril Karn"
+        />
+        <>
+          <Card1 name="" number={11} cromo={false}></Card1>
+        </>
+      </div>
+
+      <div className="AlbumCard1">
+        <img
+          className="cassian-img-container"
+          src={empty}
+          alt="Vel Sartha"
+        />
+        <>
+          <Card1 name="xxxxxx" number={12} cromo={false}></Card1>
+        </>
+      </div>
+
+      <div className="AlbumCard1">
+        <img
+          className="cassian-img-container"
+          src={kleyaMarki}
+          alt="Kleya Marki"
+        />
+        <>
+          <Card1 name="Kleya Marki" number={13} cromo={false}></Card1>
+        </>
+      </div>
+
+      <div className="AlbumCard1">
+        <img
+          className="cassian-img-container"
+          src={empty}
+          alt="Vel Sartha"
+        />
+        <>
+          <Card1 name="xxxxxx" number={14} cromo={false}></Card1>
+        </>
+      </div>
+
+      <div className="AlbumCard1">
+        <img
+          className="cassian-img-container"
+          src={sawGerrera}
+          alt="Saw Gerrera"
+        />
+        <>
+          <Card1 name="Saw Gerrera" number={15} cromo={false}></Card1>
+        </>
+      </div>
+
+      <div className="AlbumCard1">
+        <img
+          className="cassian-img-container"
+          src={kinoLoy}
+          alt="Kino Loy"
+        />
+        <>
+          <Card1 name="Kino Loy" number={16} cromo={false}></Card1>
+        </>
+      </div>
+
     </div>
-    <>
+
+    {/* <>
       <Button number={1} title={"Hello"} />
       <Button number={2} title={"you"} />
       <Button number={3} title={"mother"} />
       <Button number={4} title={"fucker"} />
       <Button number={5} />
-    </>
+</> */}
+
   </React.StrictMode>
 );
 
