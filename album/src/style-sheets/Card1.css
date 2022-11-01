@@ -1,0 +1,30 @@
+.AlbumCard1{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    width: 19%;
+    padding: 2%;
+    margin: 1%;
+    background-color: rgb(121, 18, 18);
+    color: rgb(179, 172, 157)
+}
+
+img {
+    width: 100%;
+}
+
+img:hover {
+    box-shadow: 0 0 24px rgb(241, 182, 140);
+}
+
+.figurine {
+    border: 1px solid rgb(179, 172, 157);
+    padding: 4%
+}
+
+.cromo {
+    background-color: rgb(176, 168, 153);
+    color: rgb(42, 37, 39);
+    padding: 4%
+}
