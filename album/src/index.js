@@ -1,8 +1,9 @@
 import React from "react";
 import ReactDOM from "react-dom/client";
 import "./index.css";
+
 import Top from "./components/Top";
-import Button from "./Button";
+import Title from "./components/Title";
 import Card1 from "./components/Card1";
 import cassianAndor from "./img/andor-cassian.jpeg";
 import bixCaleen from "./img/andor-bixCaleen.jpeg";
@@ -14,7 +15,7 @@ import syrilKarn from "./img/andor-syril-karn.webp";
 import velSartha from "./img/andor-vel-sartha.jpeg";
 import cintaKaz from "./img/andor-cinta-kaz.jpeg";
 import kleyaMarki from "./img/andor-kleya-marki.jpeg";
-import empty from "./img/empty-figurine.001.jpeg";
+import empty from "./img/andor-empty.jpeg";
 import sawGerrera from "./img/andor-saw-gerrera_.jpeg";
 import kinoLoy from "./img/andor-kino-loy.jpeg";
 
@@ -25,6 +26,10 @@ root.render(
   <React.StrictMode>
     <>
       <Top />
+    </>
+
+    <>
+    <Title title="ANDOR AMAZING ALBUM"></Title>
     </>
 
     <div className="card-container">
