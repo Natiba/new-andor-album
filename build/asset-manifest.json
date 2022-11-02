@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/Natiba/new-andor-album.git/static/css/main.11f1e32b.css",
-    "main.js": "/Natiba/new-andor-album.git/static/js/main.770f2c8f.js",
-    "static/media/andor-kino-loy.jpeg": "/Natiba/new-andor-album.git/static/media/andor-kino-loy.46022e3c50c5f4410cd4.jpeg",
-    "static/media/andor-kleya-marki.jpeg": "/Natiba/new-andor-album.git/static/media/andor-kleya-marki.71446d27b64c1b1bfb11.jpeg",
-    "static/media/andor-mon-mothma.jpeg": "/Natiba/new-andor-album.git/static/media/andor-mon-mothma.93688cc4243f64392d53.jpeg",
-    "static/media/andor-luthen-rael.jpeg": "/Natiba/new-andor-album.git/static/media/andor-luthen-rael.a067f7c79509e39a895d.jpeg",
-    "static/media/andor-cassian.jpeg": "/Natiba/new-andor-album.git/static/media/andor-cassian.91795850e1e5c6c92c2e.jpeg",
-    "static/media/andor-saw-gerrera_.jpeg": "/Natiba/new-andor-album.git/static/media/andor-saw-gerrera_.2554e0ca87e5e734c492.jpeg",
-    "static/media/andor-maarva.jpeg": "/Natiba/new-andor-album.git/static/media/andor-maarva.b0f3def0aedb5531b667.jpeg",
-    "static/media/andor-bixCaleen.jpeg": "/Natiba/new-andor-album.git/static/media/andor-bixCaleen.4f4d49f2027d9fabbd38.jpeg",
-    "static/media/andor-syril-karn.webp": "/Natiba/new-andor-album.git/static/media/andor-syril-karn.87353f62c5ad7d4bcb3f.webp",
-    "static/media/andor-dedra-meero.jpeg": "/Natiba/new-andor-album.git/static/media/andor-dedra-meero.5424fe2c12da6c552139.jpeg",
-    "static/media/andor-empty.jpeg": "/Natiba/new-andor-album.git/static/media/andor-empty.089dfce95f1c6edc93d7.jpeg",
-    "static/media/andor-cinta-kaz.jpeg": "/Natiba/new-andor-album.git/static/media/andor-cinta-kaz.5200d6b6aebd02b48d78.jpeg",
-    "static/media/andor-vel-sartha.jpeg": "/Natiba/new-andor-album.git/static/media/andor-vel-sartha.66a27d759e4295550061.jpeg",
-    "index.html": "/Natiba/new-andor-album.git/index.html",
-    "main.11f1e32b.css.map": "/Natiba/new-andor-album.git/static/css/main.11f1e32b.css.map",
-    "main.770f2c8f.js.map": "/Natiba/new-andor-album.git/static/js/main.770f2c8f.js.map"
+    "main.css": "/new-andor-album/static/css/main.11f1e32b.css",
+    "main.js": "/new-andor-album/static/js/main.6fe6ae98.js",
+    "static/media/andor-kino-loy.jpeg": "/new-andor-album/static/media/andor-kino-loy.46022e3c50c5f4410cd4.jpeg",
+    "static/media/andor-kleya-marki.jpeg": "/new-andor-album/static/media/andor-kleya-marki.71446d27b64c1b1bfb11.jpeg",
+    "static/media/andor-mon-mothma.jpeg": "/new-andor-album/static/media/andor-mon-mothma.93688cc4243f64392d53.jpeg",
+    "static/media/andor-luthen-rael.jpeg": "/new-andor-album/static/media/andor-luthen-rael.a067f7c79509e39a895d.jpeg",
+    "static/media/andor-cassian.jpeg": "/new-andor-album/static/media/andor-cassian.91795850e1e5c6c92c2e.jpeg",
+    "static/media/andor-saw-gerrera_.jpeg": "/new-andor-album/static/media/andor-saw-gerrera_.2554e0ca87e5e734c492.jpeg",
+    "static/media/andor-maarva.jpeg": "/new-andor-album/static/media/andor-maarva.b0f3def0aedb5531b667.jpeg",
+    "static/media/andor-bixCaleen.jpeg": "/new-andor-album/static/media/andor-bixCaleen.4f4d49f2027d9fabbd38.jpeg",
+    "static/media/andor-syril-karn.webp": "/new-andor-album/static/media/andor-syril-karn.87353f62c5ad7d4bcb3f.webp",
+    "static/media/andor-dedra-meero.jpeg": "/new-andor-album/static/media/andor-dedra-meero.5424fe2c12da6c552139.jpeg",
+    "static/media/andor-empty.jpeg": "/new-andor-album/static/media/andor-empty.089dfce95f1c6edc93d7.jpeg",
+    "static/media/andor-cinta-kaz.jpeg": "/new-andor-album/static/media/andor-cinta-kaz.5200d6b6aebd02b48d78.jpeg",
+    "static/media/andor-vel-sartha.jpeg": "/new-andor-album/static/media/andor-vel-sartha.66a27d759e4295550061.jpeg",
+    "index.html": "/new-andor-album/index.html",
+    "main.11f1e32b.css.map": "/new-andor-album/static/css/main.11f1e32b.css.map",
+    "main.6fe6ae98.js.map": "/new-andor-album/static/js/main.6fe6ae98.js.map"
   },
   "entrypoints": [
     "static/css/main.11f1e32b.css",
-    "static/js/main.770f2c8f.js"
+    "static/js/main.6fe6ae98.js"
   ]
 }
