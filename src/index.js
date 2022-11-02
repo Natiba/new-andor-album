@@ -2,7 +2,7 @@ import React from "react";
 import ReactDOM from "react-dom/client";
 import "./index.css";
 
-import Top from "./components/Top";
+
 import Title from "./components/Title";
 import Card1 from "./components/Card1";
 import Footer from "./components/Footer"
@@ -26,10 +26,7 @@ import kinoLoy from "./img/andor-kino-loy.jpeg";
 const root = ReactDOM.createRoot(document.getElementById("root"));
 root.render(
   <React.StrictMode>
-    <>
-      <Top />
-    </>
-
+   
     <>
     <Title title="ANDOR AMAZING ALBUM"></Title>
     </>

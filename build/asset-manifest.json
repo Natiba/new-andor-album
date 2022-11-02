@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Natiba/new-andor-album.git/static/css/main.11f1e32b.css",
-    "main.js": "/Natiba/new-andor-album.git/static/js/main.1e219d53.js",
+    "main.js": "/Natiba/new-andor-album.git/static/js/main.770f2c8f.js",
     "static/media/andor-kino-loy.jpeg": "/Natiba/new-andor-album.git/static/media/andor-kino-loy.46022e3c50c5f4410cd4.jpeg",
     "static/media/andor-kleya-marki.jpeg": "/Natiba/new-andor-album.git/static/media/andor-kleya-marki.71446d27b64c1b1bfb11.jpeg",
     "static/media/andor-mon-mothma.jpeg": "/Natiba/new-andor-album.git/static/media/andor-mon-mothma.93688cc4243f64392d53.jpeg",
@@ -17,10 +17,10 @@
     "static/media/andor-vel-sartha.jpeg": "/Natiba/new-andor-album.git/static/media/andor-vel-sartha.66a27d759e4295550061.jpeg",
     "index.html": "/Natiba/new-andor-album.git/index.html",
     "main.11f1e32b.css.map": "/Natiba/new-andor-album.git/static/css/main.11f1e32b.css.map",
-    "main.1e219d53.js.map": "/Natiba/new-andor-album.git/static/js/main.1e219d53.js.map"
+    "main.770f2c8f.js.map": "/Natiba/new-andor-album.git/static/js/main.770f2c8f.js.map"
   },
   "entrypoints": [
     "static/css/main.11f1e32b.css",
-    "static/js/main.1e219d53.js"
+    "static/js/main.770f2c8f.js"
   ]
 }
